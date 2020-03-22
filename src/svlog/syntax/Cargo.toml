@@ -14,17 +14,4 @@ path = "lib.rs"
 [dependencies]
 moore-common = { path = "../../common", version = "0.7.0-dev" }
 rustc-serialize = "0.3.22"
-bincode = "0.6.1"
 log = "0.4"
-slog = "2.0.12"
-clap = "2.33"
-lalrpop-util = "0.16"
-regex = "1.3"
-anyhow = "1.0"
-env_logger = "0.7"
-typed-arena = "2"
-itertools = "0.9"
-
-[[bin]]
-name = "moore-svlog-pargen"
-path = "pargen/main.rs"
