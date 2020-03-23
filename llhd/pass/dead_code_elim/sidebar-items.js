@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["run_on_entity","Eliminate dead code in an entity."],["run_on_function","Eliminate dead code in a function."],["run_on_module","Eliminate dead code in a module."],["run_on_process","Eliminate dead code in a process."]]});

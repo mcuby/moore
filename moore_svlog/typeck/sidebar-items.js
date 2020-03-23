@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["TypeContext","A type context imposed by a node's surroundings."]]});

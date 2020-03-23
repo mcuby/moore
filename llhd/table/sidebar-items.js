@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PrimaryTable","A primary table that provides dense key-based storage."],["SecondaryTable","A secondary table that associates additional information with entries in a primary table."]],"trait":[["TableKey","An opaque key to uniquely identify a table entry."]]});

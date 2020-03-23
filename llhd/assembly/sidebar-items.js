@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["parse_module","Parse a module."],["parse_time","Parse a time."],["parse_type","Parse a type."],["write_module","Emit assembly for a module."],["write_module_string","Emit assembly for a module as string."]]});

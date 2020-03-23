@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["run_on_entity","Fold an entity."],["run_on_function","Fold a function."],["run_on_inst","Fold a single instruction."],["run_on_module","Fold a module."],["run_on_process","Fold a process."]]});
