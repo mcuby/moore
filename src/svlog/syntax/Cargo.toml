@@ -15,6 +15,7 @@ path = "lib.rs"
 moore-common = { path = "../../common", version = "0.7.0-dev" }
 rustc-serialize = "0.3.22"
 log = "0.4"
+itertools = "0.9"
 
 [dev-dependencies]
 clap = "2.33"
